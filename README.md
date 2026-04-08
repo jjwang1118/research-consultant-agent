@@ -41,7 +41,7 @@
 .github/
 ├── agents/
 │   └── consultant.agent.md   # 顧問 Agent 定義
-└── skills/
+└── skills/ (#來源:https://github.com/heilcheng/awesome-agent-skills/blob/main/README.zh-TW.md)
     ├── deep-research/        # 深度研究 Skill
     └── fact-checker/         # 事實查核 Skill
 ```
