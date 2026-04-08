@@ -35,6 +35,13 @@
 | `edit` | 寫入提案內容 | ✅ 需確認 |
 | `agent` | 呼叫其他 Agent | ✅ 需確認 |
 
+## Skills
+
+| Skill | 觸發時機 |
+|-------|---------|
+| `deep-research` | 深度研究、蒐集來源、多方資料比較、research summary、synthesize information |
+| `fact-checker` | 事實查核、驗證資訊、verify、fact check、is this true、來源可信度 |
+
 ## 檔案結構
 
 ```
